@@ -4,6 +4,6 @@ This repository is for homework part of a course called [*Software practices and
 
 It's a simple obfuscated class. You need to refactor it twice. Before and after you take the course. After that you can compare the two solutions *you* wrote and see what you've learned.
 
-You can join the support facebook group where you can review other's homework and you can recieve reviews: https://www.facebook.com/groups/352140806241336
+You can join the support facebook group where you can review other's homework and you can recieve reviews: [*Facebook group*](https://rebrand.ly/spfb-lets-compare)
 
-For more useful acticles you can visit http://devsmanship.com/
+For more useful acticles you can visit [*our website*](https://rebrand.ly/wbg-lets-compare)
